@@ -41,11 +41,14 @@ results/out/{algorithm}/{interaction settings}/{problem}/{weight}/{seed}/
 If you find our repository helpful to your research, please cite our paper:
 
 ```
-@article{KeLi2022,
-  title={Batched Data-Driven Evolutionary Multi-Objective Optimization Based on Manifold Interpolation},
-  author={Li, Ke and Chen, Renzhi},
-  journal={IEEE Transactions on Evolutionary Computation},
-  year={2022},
-  publisher={IEEE}
+@article{LiLY22,
+    author    = {Ke Li and
+                 Guiyu Lai and
+                 Xin Yao},
+    title     = {Interactive Evolutionary Multi-Objective Optimization via Learning-to-Rank},
+    journal   = {{IEEE} Trans. Evol. Comput.},
+    pages     = {1--15},
+    year      = {2022},
+    note      = {accepted for publication}
 }
 ```
